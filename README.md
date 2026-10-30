@@ -1,16 +1,18 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4532A,100:E07A4F&height=170&section=header&text=Đạt%20Pro%20Max&fontColor=ffffff&fontSize=46" width="100%"/>
 
-<!--
-**inuxmax/inuxmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=E07A4F&center=true&vCenter=true&width=520&lines=Building+AI+agent+software;Next.js+·+TypeScript+·+MongoDB+·+three.js" />
+</div>
 
-Here are some ideas to get you started:
+### 🧑‍💻 About me
+- 🏢 Building **[JVCompany](https://github.com/inuxmax/JVcompany)** – an AI agent software company in a 3D office
+- 🌱 Next.js, TypeScript, AI agents, Cloudflare Workers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech stack
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,mongodb,threejs,electron,tailwind,cloudflare" />
+
+### 🚀 Featured project
+<a href="https://inuxmax.github.io/JVcompany/"><img src="https://raw.githubusercontent.com/inuxmax/JVcompany/main/docs/assets/banner.png" width="100%"/></a>
+
+### 📊 Stats
+<img src="https://streak-stats.demolab.com?user=inuxmax&theme=dark&ring=E07A4F&fire=C4532A&currStreakLabel=E07A4F" />
