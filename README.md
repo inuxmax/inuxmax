@@ -28,7 +28,7 @@ I build tools that help AI move beyond conversations — planning projects, writ
 ## 🚀 Featured Project
 
 <p align="center">
-  <img src="YOUR_JVCOMPANY_BANNER_URL" width="100%" alt="JVCompany — Your software company, run by AI agents"/>
+  <img src="https://inuxmax.github.io/JVcompany/" width="100%" alt="JVCompany — Your software company, run by AI agents"/>
 </p>
 
 ### 🏢 JVCompany — Your Software Company, Run by AI Agents
